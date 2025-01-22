@@ -11,9 +11,4 @@ if __name__ == "__main__":
 
     tabWidgetApp.show()
     sys.exit(app.exec())
-
-    #widget = homeWidget()
-    
-    #widget.show()
-
     
